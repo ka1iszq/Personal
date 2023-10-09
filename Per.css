@@ -43,7 +43,6 @@
     margin-right: 100px;
 }
 
-
 .per{
     width: 770px;
     height: 250px;
@@ -91,3 +90,25 @@
     margin: auto;
     margin-top: 10px;
 }
+
+.oox {
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+    float: right;
+    text-align: left;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.per3 {
+    width: 450px;
+    height: 80px;
+    background: rgb(255, 255, 255) ;
+    margin-right: 60px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
